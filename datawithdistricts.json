@@ -1,0 +1,976 @@
+{
+  "data": [
+    {
+      "lat": "1.27625556164",
+      "lng": "103.85504658",
+      "name": "Marina Bay Sands",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.289397",
+      "lng": "103.863231",
+      "name": "Ferris wheel",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.290665504",
+      "lng": "103.772663576",
+      "name": "National University of Singapore",
+      "district": "QUEENSTOWN"
+    },
+    {
+      "lat": "1.3023821238",
+      "lng": "103.83916331",
+      "name": "Sri Temasek",
+      "district": "NEWTON"
+    },
+    {
+      "lat": "1.248",
+      "lng": "103.83",
+      "name": "Sentosa",
+      "district": "SOUTHERN ISLANDS"
+    },
+    {
+      "lat": "1.28554552448",
+      "lng": "103.852809922",
+      "name": "Merlion",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.2999988",
+      "lng": "103.8499966",
+      "name": "Geography of Singapore",
+      "district": "ROCHOR"
+    },
+    {
+      "lat": "1.253232",
+      "lng": "103.821081",
+      "name": "Resorts World Sentosa",
+      "district": "SOUTHERN ISLANDS"
+    },
+    {
+      "lat": "1.30416545",
+      "lng": "103.83916331",
+      "name": "Istana (Singapore)",
+      "district": "NEWTON"
+    },
+    {
+      "lat": "1.32125871496",
+      "lng": "103.840536638",
+      "name": "Singapore Police Force",
+      "district": "NOVENA"
+    },
+    {
+      "lat": "1.291332168",
+      "lng": "103.843163294",
+      "name": "Singapore Management University",
+      "district": "SINGAPORE RIVER"
+    },
+    {
+      "lat": "1.2738655712",
+      "lng": "103.833946664",
+      "name": "Singapore General Hospital",
+      "district": "BUKIT MERAH"
+    },
+    {
+      "lat": "1.3030487878",
+      "lng": "103.825808363",
+      "name": "Orchard Road",
+      "district": "RIVER VALLEY"
+    },
+    {
+      "lat": "1.3151",
+      "lng": "103.8162",
+      "name": "Singapore Botanic Gardens",
+      "district": "TANGLIN"
+    },
+    {
+      "lat": "1.33690031906",
+      "lng": "103.87412817",
+      "name": "Gurkha Contingent",
+      "district": "TOA PAYOH"
+    },
+    {
+      "lat": "1.28414719674",
+      "lng": "103.850613264",
+      "name": "List of tallest buildings in Singapore",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.2901321728",
+      "lng": "103.852763256",
+      "name": "Raffles Hotel",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.289218",
+      "lng": "103.85031",
+      "name": "Parliament House, Singapore",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.255002",
+      "lng": "103.822151",
+      "name": "Revenge of the Mummy",
+      "district": "SOUTHERN ISLANDS"
+    },
+    {
+      "lat": "1.335498658",
+      "lng": "103.854329916",
+      "name": "Toa Payoh ritual murders",
+      "district": "TOA PAYOH"
+    },
+    {
+      "lat": "1.2666656",
+      "lng": "103.69083057",
+      "name": "Jurong Island",
+      "district": "WESTERN ISLANDS"
+    },
+    {
+      "lat": "1.30416545",
+      "lng": "103.824080037",
+      "name": "Orchard Towers",
+      "district": "ORCHARD"
+    },
+    {
+      "lat": "1.28388886444",
+      "lng": "103.776136895",
+      "name": "Haw Par Villa",
+      "district": "QUEENSTOWN"
+    },
+    {
+      "lat": "1.2872655176",
+      "lng": "103.853046588",
+      "name": "Esplanade, Theatres on the Bay",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.333332",
+      "lng": "103.8499966",
+      "name": "Toa Payoh",
+      "district": "TOA PAYOH"
+    },
+    {
+      "lat": "1.32416537",
+      "lng": "103.77249691",
+      "name": "SIM University",
+      "district": "CLEMENTI"
+    },
+    {
+      "lat": "1.28734218396",
+      "lng": "103.840983303",
+      "name": "Clarke Quay",
+      "district": "OUTRAM"
+    },
+    {
+      "lat": "1.312751",
+      "lng": "103.844147",
+      "name": "987FM",
+      "district": "NOVENA"
+    },
+    {
+      "lat": "1.27553556452",
+      "lng": "103.870259852",
+      "name": "Marina Barrage",
+      "district": "MARINA SOUTH"
+    },
+    {
+      "lat": "1.28748551672",
+      "lng": "103.851694927",
+      "name": "Padang, Singapore",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.32654",
+      "lng": "103.803491",
+      "name": "Hwa Chong Institution",
+      "district": "BUKIT TIMAH"
+    },
+    {
+      "lat": "1.31947872208",
+      "lng": "103.888441446",
+      "name": "Certis CISCO",
+      "district": "GEYLANG"
+    },
+    {
+      "lat": "1.31749873",
+      "lng": "103.704330516",
+      "name": "Jurong Bird Park",
+      "district": "BOON LAY"
+    },
+    {
+      "lat": "1.272665576",
+      "lng": "103.838163314",
+      "name": "The Pinnacle@Duxton",
+      "district": "BUKIT MERAH"
+    },
+    {
+      "lat": "1.287665516",
+      "lng": "103.850329932",
+      "name": "Supreme Court of Singapore",
+      "district": "SINGAPORE RIVER"
+    },
+    {
+      "lat": "1.320332052",
+      "lng": "103.766996932",
+      "name": "Jurong",
+      "district": "CLEMENTI"
+    },
+    {
+      "lat": "1.270332252",
+      "lng": "103.836163322",
+      "name": "Tanjong Pagar railway station",
+      "district": "BUKIT MERAH"
+    },
+    {
+      "lat": "1.28942884228",
+      "lng": "103.854299916",
+      "name": "Suntec City",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.28999884",
+      "lng": "103.841496634",
+      "name": "Fort Canning",
+      "district": "SINGAPORE RIVER"
+    },
+    {
+      "lat": "1.285415525",
+      "lng": "103.841363301",
+      "name": "Speakers' Corner, Singapore",
+      "district": "OUTRAM"
+    },
+    {
+      "lat": "1.28499886",
+      "lng": "103.85166326",
+      "name": "The Fullerton Hotel Singapore",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.3026987892",
+      "lng": "103.834379996",
+      "name": "Mount Elizabeth Hospital",
+      "district": "ORCHARD"
+    },
+    {
+      "lat": "1.28366053202",
+      "lng": "103.850916596",
+      "name": "Raffles Place MRT Station",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.3012821282",
+      "lng": "103.855463245",
+      "name": "Masjid Sultan",
+      "district": "ROCHOR"
+    },
+    {
+      "lat": "1.28583219",
+      "lng": "103.850663264",
+      "name": "Asian Civilisations Museum",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.303956",
+      "lng": "103.9263725",
+      "name": "East Coast Park",
+      "district": "BEDOK"
+    },
+    {
+      "lat": "1.2583323",
+      "lng": "103.81999672",
+      "name": "VivoCity",
+      "district": "SOUTHERN ISLANDS"
+    },
+    {
+      "lat": "1.3196320548",
+      "lng": "103.840896636",
+      "name": "Tan Tock Seng Hospital",
+      "district": "NOVENA"
+    },
+    {
+      "lat": "1.30181212608",
+      "lng": "103.773110241",
+      "name": "United World College of South East Asia",
+      "district": "QUEENSTOWN"
+    },
+    {
+      "lat": "1.286498854",
+      "lng": "103.850596598",
+      "name": "Old Parliament House, Singapore",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.333498666",
+      "lng": "103.772830242",
+      "name": "Ngee Ann Polytechnic",
+      "district": "BUKIT TIMAH"
+    },
+    {
+      "lat": "1.330278",
+      "lng": "103.804167",
+      "name": "National Junior College",
+      "district": "BUKIT TIMAH"
+    },
+    {
+      "lat": "1.2755155646",
+      "lng": "103.842029965",
+      "name": "Nagore Dargah",
+      "district": "OUTRAM"
+    },
+    {
+      "lat": "1.32125871496",
+      "lng": "103.840536638",
+      "name": "List of Singapore police officers killed in the line of duty",
+      "district": "NOVENA"
+    },
+    {
+      "lat": "1.299156",
+      "lng": "103.845736",
+      "name": "Dhoby Ghaut MRT Station",
+      "district": "MUSEUM"
+    },
+    {
+      "lat": "1.28927550956",
+      "lng": "103.851328261",
+      "name": "City Hall MRT Station",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.28916551",
+      "lng": "103.842913295",
+      "name": "Armenian Church, Singapore",
+      "district": "SINGAPORE RIVER"
+    },
+    {
+      "lat": "1.2862821882",
+      "lng": "103.850979929",
+      "name": "Victoria Theatre and Concert Hall",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.320332052",
+      "lng": "103.766996932",
+      "name": "Rail transport in Singapore",
+      "district": "CLEMENTI"
+    },
+    {
+      "lat": "1.291998832",
+      "lng": "103.852529923",
+      "name": "National Library, Singapore",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.27468723458",
+      "lng": "103.852509923",
+      "name": "Marina Bay Financial Centre",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.301498794",
+      "lng": "103.78833018",
+      "name": "Biopolis",
+      "district": "QUEENSTOWN"
+    },
+    {
+      "lat": "1.2903821718",
+      "lng": "103.776363561",
+      "name": "National University Hospital",
+      "district": "QUEENSTOWN"
+    },
+    {
+      "lat": "1.339498642",
+      "lng": "103.825330032",
+      "name": "MacRitchie Reservoir",
+      "district": "NOVENA"
+    },
+    {
+      "lat": "1.287665516",
+      "lng": "103.851079929",
+      "name": "City Hall, Singapore",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.284665528",
+      "lng": "103.843163294",
+      "name": "UOB Plaza",
+      "district": "OUTRAM"
+    },
+    {
+      "lat": "1.32076205028",
+      "lng": "103.839783308",
+      "name": "Internal Security Department (Singapore)",
+      "district": "NOVENA"
+    },
+    {
+      "lat": "1.29040050506",
+      "lng": "103.800290132",
+      "name": "Special Tactics and Rescue (Singapore)",
+      "district": "QUEENSTOWN"
+    },
+    {
+      "lat": "1.287165518",
+      "lng": "103.850746597",
+      "name": "Old Supreme Court Building, Singapore",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.30250045666",
+      "lng": "103.825696697",
+      "name": "ION Orchard",
+      "district": "RIVER VALLEY"
+    },
+    {
+      "lat": "1.322165378",
+      "lng": "103.793163494",
+      "name": "Singapore Institute of Management",
+      "district": "BUKIT TIMAH"
+    },
+    {
+      "lat": "1.2857405237",
+      "lng": "103.859216563",
+      "name": "Operation Jaywick",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.2652",
+      "lng": "103.8201",
+      "name": "HarbourFront",
+      "district": "BUKIT MERAH"
+    },
+    {
+      "lat": "1.300194",
+      "lng": "103.85615",
+      "name": "Bugis MRT Station",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.33375199832",
+      "lng": "103.955354512",
+      "name": "Singapore Expo",
+      "district": "TAMPINES"
+    },
+    {
+      "lat": "1.28776718226",
+      "lng": "103.842214964",
+      "name": "Ministry of Communications and Information",
+      "district": "OUTRAM"
+    },
+    {
+      "lat": "1.30051879792",
+      "lng": "103.851801593",
+      "name": "Kwan Im Thong Hood Cho Temple",
+      "district": "ROCHOR"
+    },
+    {
+      "lat": "1.333415",
+      "lng": "103.742119",
+      "name": "Jurong East MRT Station",
+      "district": "JURONG EAST"
+    },
+    {
+      "lat": "1.28726385094",
+      "lng": "103.850223266",
+      "name": "High Court of Singapore",
+      "district": "SINGAPORE RIVER"
+    },
+    {
+      "lat": "1.2854405249",
+      "lng": "103.843036628",
+      "name": "Boat Quay",
+      "district": "OUTRAM"
+    },
+    {
+      "lat": "1.282347",
+      "lng": "103.859317",
+      "name": "Bayfront MRT Station",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.25403065054",
+      "lng": "103.826491694",
+      "name": "Police Coast Guard",
+      "district": "SOUTHERN ISLANDS"
+    },
+    {
+      "lat": "1.30444544888",
+      "lng": "103.870689851",
+      "name": "Kallang Airport",
+      "district": "KALLANG"
+    },
+    {
+      "lat": "1.292665496",
+      "lng": "103.876329828",
+      "name": "Dunman High School",
+      "district": "MARINE PARADE"
+    },
+    {
+      "lat": "1.2851988592",
+      "lng": "103.80073013",
+      "name": "Alexandra Hospital",
+      "district": "QUEENSTOWN"
+    },
+    {
+      "lat": "1.2750322332",
+      "lng": "103.850196599",
+      "name": "Telok Ayer Market",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.2973366188",
+      "lng": "103.850904132",
+      "name": "Singapore Art Museum",
+      "district": "MUSEUM"
+    },
+    {
+      "lat": "1.3042987828",
+      "lng": "103.857801569",
+      "name": "Lavender MRT Station",
+      "district": "ROCHOR"
+    },
+    {
+      "lat": "1.3039321176",
+      "lng": "103.919029657",
+      "name": "Victoria Junior College",
+      "district": "MARINE PARADE"
+    },
+    {
+      "lat": "1.280225",
+      "lng": "103.839486",
+      "name": "Outram Park MRT Station",
+      "district": "BUKIT MERAH"
+    },
+    {
+      "lat": "1.2846",
+      "lng": "103.851",
+      "name": "One Raffles Place",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.310016",
+      "lng": "103.860347",
+      "name": "Jalan Besar Stadium",
+      "district": "KALLANG"
+    },
+    {
+      "lat": "1.25333232",
+      "lng": "103.819330056",
+      "name": "Sentosa Express",
+      "district": "SOUTHERN ISLANDS"
+    },
+    {
+      "lat": "1.258665632",
+      "lng": "103.818663392",
+      "name": "HarbourFront Centre",
+      "district": "SOUTHERN ISLANDS"
+    },
+    {
+      "lat": "1.28485",
+      "lng": "103.844006",
+      "name": "Chinatown MRT Station",
+      "district": "OUTRAM"
+    },
+    {
+      "lat": "1.322519",
+      "lng": "103.815406",
+      "name": "Botanic Gardens MRT Station",
+      "district": "TANGLIN"
+    },
+    {
+      "lat": "1.32308037434",
+      "lng": "103.941136235",
+      "name": "Tanah Merah MRT Station",
+      "district": "BEDOK"
+    },
+    {
+      "lat": "1.293131",
+      "lng": "103.861064",
+      "name": "Promenade MRT Station",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.32399537068",
+      "lng": "103.737298717",
+      "name": "Jurong East",
+      "district": "JURONG EAST"
+    },
+    {
+      "lat": "1.265297",
+      "lng": "103.82225",
+      "name": "HarbourFront MRT Station",
+      "district": "BUKIT MERAH"
+    },
+    {
+      "lat": "1.30152546056",
+      "lng": "103.859574895",
+      "name": "Nicoll Highway collapse",
+      "district": "ROCHOR"
+    },
+    {
+      "lat": "1.290332172",
+      "lng": "103.853663252",
+      "name": "South Beach, Singapore",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.289498842",
+      "lng": "103.851829926",
+      "name": "Raffles City",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.2898655072",
+      "lng": "103.842813295",
+      "name": "Peranakan Museum",
+      "district": "SINGAPORE RIVER"
+    },
+    {
+      "lat": "1.301332128",
+      "lng": "103.856163242",
+      "name": "Malay Heritage Centre",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.306332108",
+      "lng": "103.841496634",
+      "name": "KK Women's and Children's Hospital",
+      "district": "NEWTON"
+    },
+    {
+      "lat": "1.31928538952",
+      "lng": "104.022099912",
+      "name": "Changi Naval Base",
+      "district": "CHANGI BAY"
+    },
+    {
+      "lat": "1.290415505",
+      "lng": "103.851079929",
+      "name": "CHIJMES",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.28776",
+      "lng": "103.84684",
+      "name": "WOHA",
+      "district": "SINGAPORE RIVER"
+    },
+    {
+      "lat": "1.288582179",
+      "lng": "103.851213262",
+      "name": "St Andrew's Cathedral, Singapore",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.29040050506",
+      "lng": "103.800290132",
+      "name": "Special Operations Command (Singapore)",
+      "district": "QUEENSTOWN"
+    },
+    {
+      "lat": "1.3067321064",
+      "lng": "103.822530043",
+      "name": "Shangri-La Hotel Singapore",
+      "district": "TANGLIN"
+    },
+    {
+      "lat": "1.300082133",
+      "lng": "103.854576582",
+      "name": "Parkview Square",
+      "district": "ROCHOR"
+    },
+    {
+      "lat": "1.33461366154",
+      "lng": "103.957056172",
+      "name": "Expo MRT Station",
+      "district": "TAMPINES"
+    },
+    {
+      "lat": "1.296931",
+      "lng": "103.850631",
+      "name": "Bras Basah MRT Station",
+      "district": "MUSEUM"
+    },
+    {
+      "lat": "1.338665312",
+      "lng": "103.92166298",
+      "name": "Bedok Reservoir",
+      "district": "BEDOK"
+    },
+    {
+      "lat": "1.317767",
+      "lng": "103.892381",
+      "name": "Paya Lebar MRT Station",
+      "district": "GEYLANG"
+    },
+    {
+      "lat": "1.30258712298",
+      "lng": "103.825826697",
+      "name": "Orchard MRT Station",
+      "district": "RIVER VALLEY"
+    },
+    {
+      "lat": "1.3016321268",
+      "lng": "103.858979897",
+      "name": "Golden Mile Complex",
+      "district": "ROCHOR"
+    },
+    {
+      "lat": "1.27532723202",
+      "lng": "103.85167326",
+      "name": "The Sail @ Marina Bay",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.32654",
+      "lng": "103.803491",
+      "name": "The Chinese High School (Singapore)",
+      "district": "BUKIT TIMAH"
+    },
+    {
+      "lat": "1.2901988392",
+      "lng": "103.855279912",
+      "name": "Fountain of Wealth",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.275918",
+      "lng": "103.845971",
+      "name": "Accounting and Corporate Regulatory Authority",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.30166546",
+      "lng": "103.833996664",
+      "name": "Ngee Ann City",
+      "district": "ORCHARD"
+    },
+    {
+      "lat": "1.29176383294",
+      "lng": "103.84244663",
+      "name": "Kempeitai East District Branch",
+      "district": "SINGAPORE RIVER"
+    },
+    {
+      "lat": "1.306817",
+      "lng": "103.790428",
+      "name": "Buona Vista MRT Station",
+      "district": "QUEENSTOWN"
+    },
+    {
+      "lat": "1.333831998",
+      "lng": "103.735663724",
+      "name": "Science Centre Singapore",
+      "district": "JURONG EAST"
+    },
+    {
+      "lat": "1.275665564",
+      "lng": "103.851329928",
+      "name": "One Raffles Quay",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.279458",
+      "lng": "103.852931",
+      "name": "Downtown MRT Station",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.28726385094",
+      "lng": "103.850223266",
+      "name": "Court of Appeal of Singapore",
+      "district": "SINGAPORE RIVER"
+    },
+    {
+      "lat": "1.337665316",
+      "lng": "103.942829562",
+      "name": "Changi General Hospital",
+      "district": "TAMPINES"
+    },
+    {
+      "lat": "1.27252890988",
+      "lng": "103.840756637",
+      "name": "Tanjong Pagar MRT Station",
+      "district": "BUKIT MERAH"
+    },
+    {
+      "lat": "1.301832126",
+      "lng": "103.904663048",
+      "name": "Marine Parade",
+      "district": "MARINE PARADE"
+    },
+    {
+      "lat": "1.306725",
+      "lng": "103.849175",
+      "name": "Little India MRT Station",
+      "district": "ROCHOR"
+    },
+    {
+      "lat": "1.32487536716",
+      "lng": "103.835303325",
+      "name": "Aetos Security Management",
+      "district": "NOVENA"
+    },
+    {
+      "lat": "1.28438886244",
+      "lng": "103.851379928",
+      "name": "Ocean Financial Centre",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.266998932",
+      "lng": "103.800996796",
+      "name": "Labrador Nature Reserve",
+      "district": "BUKIT MERAH"
+    },
+    {
+      "lat": "1.312314",
+      "lng": "103.854028",
+      "name": "Farrer Park MRT Station",
+      "district": "ROCHOR"
+    },
+    {
+      "lat": "1.33458699498",
+      "lng": "103.869864854",
+      "name": "Bidadari Cemetery",
+      "district": "TOA PAYOH"
+    },
+    {
+      "lat": "1.282125",
+      "lng": "103.848472",
+      "name": "Telok Ayer MRT Station",
+      "district": "OUTRAM"
+    },
+    {
+      "lat": "1.29040050506",
+      "lng": "103.800290132",
+      "name": "Police Tactical Unit (Singapore)",
+      "district": "QUEENSTOWN"
+    },
+    {
+      "lat": "1.28598718938",
+      "lng": "103.859484895",
+      "name": "Operation Rimau",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.307165438",
+      "lng": "103.836996652",
+      "name": "Newton Food Centre",
+      "district": "NEWTON"
+    },
+    {
+      "lat": "1.287998848",
+      "lng": "103.854496582",
+      "name": "Marina Square",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.28528719218",
+      "lng": "103.841166635",
+      "name": "Hong Lim Park",
+      "district": "OUTRAM"
+    },
+    {
+      "lat": "1.304332116",
+      "lng": "103.818496726",
+      "name": "Gleneagles Hospital and Medical Centre",
+      "district": "TANGLIN"
+    },
+    {
+      "lat": "1.285248859",
+      "lng": "103.851363261",
+      "name": "Cavenagh Bridge",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.290915503",
+      "lng": "103.850746597",
+      "name": "Cathedral of the Good Shepherd",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.312751",
+      "lng": "103.862",
+      "name": "938LIVE",
+      "district": "KALLANG"
+    },
+    {
+      "lat": "1.302856",
+      "lng": "103.875306",
+      "name": "Stadium MRT Station",
+      "district": "KALLANG"
+    },
+    {
+      "lat": "1.2922654976",
+      "lng": "103.851913259",
+      "name": "Saint Joseph's Church, Singapore",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.2837655316",
+      "lng": "103.838629979",
+      "name": "People's Park Complex",
+      "district": "OUTRAM"
+    },
+    {
+      "lat": "1.3014487942",
+      "lng": "103.831680007",
+      "name": "Overseas Family School",
+      "district": "RIVER VALLEY"
+    },
+    {
+      "lat": "1.299331",
+      "lng": "103.787067",
+      "name": "One-north MRT Station",
+      "district": "QUEENSTOWN"
+    },
+    {
+      "lat": "1.32330870676",
+      "lng": "103.673755638",
+      "name": "Joo Koon MRT Station",
+      "district": "PIONEER"
+    },
+    {
+      "lat": "1.288708",
+      "lng": "103.846606",
+      "name": "Clarke Quay MRT Station",
+      "district": "SINGAPORE RIVER"
+    },
+    {
+      "lat": "1.2935571",
+      "lng": "103.851547",
+      "name": "Capitol Building, Singapore",
+      "district": "DOWNTOWN CORE"
+    },
+    {
+      "lat": "1.3085467",
+      "lng": "103.8520646",
+      "name": "Tekka Centre",
+      "district": "ROCHOR"
+    },
+    {
+      "lat": "1.335833",
+      "lng": "103.887942",
+      "name": "Tai Seng MRT Station",
+      "district": "TOA PAYOH"
+    },
+    {
+      "lat": "1.323498706",
+      "lng": "103.841496634",
+      "name": "Sun Yat Sen Nanyang Memorial Hall",
+      "district": "NOVENA"
+    },
+    {
+      "lat": "1.2991078",
+      "lng": "103.8484597",
+      "name": "School of the Arts, Singapore",
+      "district": "MUSEUM"
+    },
+    {
+      "lat": "1.3254320316",
+      "lng": "103.859079897",
+      "name": "Saint Andrew's Junior College",
+      "district": "NOVENA"
+    }
+  ]
+}

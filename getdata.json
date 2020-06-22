@@ -1,0 +1,665 @@
+{
+  "data": [
+    {
+      "lat": "1.27625556164",
+      "lng": "103.85504658",
+      "name": "Marina Bay Sands"
+    },
+    { "lat": "1.289397", "lng": "103.863231", "name": "Ferris wheel" },
+    {
+      "lat": "1.290665504",
+      "lng": "103.772663576",
+      "name": "National University of Singapore"
+    },
+    { "lat": "1.3023821238", "lng": "103.83916331", "name": "Sri Temasek" },
+    { "lat": "1.248", "lng": "103.83", "name": "Sentosa" },
+    { "lat": "1.28554552448", "lng": "103.852809922", "name": "Merlion" },
+
+    {
+      "lat": "1.2999988",
+      "lng": "103.8499966",
+      "name": "Geography of Singapore"
+    },
+    { "lat": "1.253232", "lng": "103.821081", "name": "Resorts World Sentosa" },
+    { "lat": "1.264", "lng": "103.84", "name": "Port of Singapore" },
+    {
+      "lat": "1.30416545",
+      "lng": "103.83916331",
+      "name": "Istana (Singapore)"
+    },
+    {
+      "lat": "1.32125871496",
+      "lng": "103.840536638",
+      "name": "Singapore Police Force"
+    },
+    {
+      "lat": "1.291332168",
+      "lng": "103.843163294",
+      "name": "Singapore Management University"
+    },
+    {
+      "lat": "1.28697051878",
+      "lng": "103.857934902",
+      "name": "Singapore Flyer"
+    },
+    {
+      "lat": "1.2738655712",
+      "lng": "103.833946664",
+      "name": "Singapore General Hospital"
+    },
+    { "lat": "1.3030487878", "lng": "103.825808363", "name": "Orchard Road" },
+    {
+      "lat": "1.3025654564",
+      "lng": "103.871429848",
+      "name": "National Stadium, Singapore"
+    },
+    { "lat": "1.3151", "lng": "103.8162", "name": "Singapore Botanic Gardens" },
+    {
+      "lat": "1.33690031906",
+      "lng": "103.87412817",
+      "name": "Gurkha Contingent"
+    },
+    {
+      "lat": "1.28414719674",
+      "lng": "103.850613264",
+      "name": "List of tallest buildings in Singapore"
+    },
+    { "lat": "1.2901321728", "lng": "103.852763256", "name": "Raffles Hotel" },
+    {
+      "lat": "1.283998864",
+      "lng": "103.853496586",
+      "name": "Marina Bay, Singapore"
+    },
+    {
+      "lat": "1.289218",
+      "lng": "103.85031",
+      "name": "Parliament House, Singapore"
+    },
+    {
+      "lat": "1.2881738473",
+      "lng": "103.858484899",
+      "name": "Marina Bay Street Circuit"
+    },
+    { "lat": "1.255002", "lng": "103.822151", "name": "Revenge of the Mummy" },
+    {
+      "lat": "1.335498658",
+      "lng": "103.854329916",
+      "name": "Toa Payoh ritual murders"
+    },
+    { "lat": "1.2666656", "lng": "103.69083057", "name": "Jurong Island" },
+    {
+      "lat": "1.28590552304",
+      "lng": "103.856354908",
+      "name": "The Helix Bridge"
+    },
+    { "lat": "1.30416545", "lng": "103.824080037", "name": "Orchard Towers" },
+    { "lat": "1.28388886444", "lng": "103.776136895", "name": "Haw Par Villa" },
+    {
+      "lat": "1.2872655176",
+      "lng": "103.853046588",
+      "name": "Esplanade – Theatres on the Bay"
+    },
+    { "lat": "1.333332", "lng": "103.8499966", "name": "Toa Payoh" },
+    { "lat": "1.32416537", "lng": "103.77249691", "name": "SIM University" },
+    { "lat": "1.28734218396", "lng": "103.840983303", "name": "Clarke Quay" },
+    { "lat": "1.312751", "lng": "103.844147", "name": "987FM" },
+    {
+      "lat": "1.27553556452",
+      "lng": "103.870259852",
+      "name": "Marina Barrage"
+    },
+    {
+      "lat": "1.28748551672",
+      "lng": "103.851694927",
+      "name": "Padang, Singapore"
+    },
+    { "lat": "1.32654", "lng": "103.803491", "name": "Hwa Chong Institution" },
+    { "lat": "1.31947872208", "lng": "103.888441446", "name": "Certis CISCO" },
+    {
+      "lat": "1.3025654564",
+      "lng": "103.871429848",
+      "name": "Singapore Sports Hub"
+    },
+    { "lat": "1.31749873", "lng": "103.704330516", "name": "Jurong Bird Park" },
+    {
+      "lat": "1.272665576",
+      "lng": "103.838163314",
+      "name": "The Pinnacle@Duxton"
+    },
+    {
+      "lat": "1.287665516",
+      "lng": "103.850329932",
+      "name": "Supreme Court of Singapore"
+    },
+    {
+      "lat": "1.300415465",
+      "lng": "103.871196515",
+      "name": "Singapore Indoor Stadium"
+    },
+    { "lat": "1.320332052", "lng": "103.766996932", "name": "Jurong" },
+    {
+      "lat": "1.270332252",
+      "lng": "103.836163322",
+      "name": "Tanjong Pagar railway station"
+    },
+    { "lat": "1.28942884228", "lng": "103.854299916", "name": "Suntec City" },
+    { "lat": "1.28999884", "lng": "103.841496634", "name": "Fort Canning" },
+    {
+      "lat": "1.285415525",
+      "lng": "103.841363301",
+      "name": "Speakers' Corner, Singapore"
+    },
+    {
+      "lat": "1.28499886",
+      "lng": "103.85166326",
+      "name": "The Fullerton Hotel Singapore"
+    },
+    {
+      "lat": "1.3026987892",
+      "lng": "103.834379996",
+      "name": "Mount Elizabeth Hospital"
+    },
+    {
+      "lat": "1.28366053202",
+      "lng": "103.850916596",
+      "name": "Raffles Place MRT Station"
+    },
+    { "lat": "1.3012821282", "lng": "103.855463245", "name": "Masjid Sultan" },
+    {
+      "lat": "1.28583219",
+      "lng": "103.850663264",
+      "name": "Asian Civilisations Museum"
+    },
+    { "lat": "1.303956", "lng": "103.9263725", "name": "East Coast Park" },
+    { "lat": "1.2583323", "lng": "103.81999672", "name": "VivoCity" },
+    {
+      "lat": "1.3196320548",
+      "lng": "103.840896636",
+      "name": "Tan Tock Seng Hospital"
+    },
+    {
+      "lat": "1.30181212608",
+      "lng": "103.773110241",
+      "name": "United World College of South East Asia"
+    },
+    {
+      "lat": "1.286498854",
+      "lng": "103.850596598",
+      "name": "Old Parliament House, Singapore"
+    },
+    {
+      "lat": "1.333498666",
+      "lng": "103.772830242",
+      "name": "Ngee Ann Polytechnic"
+    },
+    {
+      "lat": "1.330278",
+      "lng": "103.804167",
+      "name": "National Junior College"
+    },
+    { "lat": "1.2755155646", "lng": "103.842029965", "name": "Nagore Dargah" },
+    {
+      "lat": "1.32125871496",
+      "lng": "103.840536638",
+      "name": "List of Singapore police officers killed in the line of duty"
+    },
+    {
+      "lat": "1.286998852",
+      "lng": "103.855329912",
+      "name": "2008 Singapore Grand Prix"
+    },
+    {
+      "lat": "1.286332188",
+      "lng": "103.855329912",
+      "name": "The Float at Marina Bay"
+    },
+    {
+      "lat": "1.299156",
+      "lng": "103.845736",
+      "name": "Dhoby Ghaut MRT Station"
+    },
+    {
+      "lat": "1.28927550956",
+      "lng": "103.851328261",
+      "name": "City Hall MRT Station"
+    },
+    {
+      "lat": "1.28916551",
+      "lng": "103.842913295",
+      "name": "Armenian Church, Singapore"
+    },
+    {
+      "lat": "1.2862821882",
+      "lng": "103.850979929",
+      "name": "Victoria Theatre and Concert Hall"
+    },
+    {
+      "lat": "1.320332052",
+      "lng": "103.766996932",
+      "name": "Rail transport in Singapore"
+    },
+    {
+      "lat": "1.291998832",
+      "lng": "103.852529923",
+      "name": "National Library, Singapore"
+    },
+    {
+      "lat": "1.27468723458",
+      "lng": "103.852509923",
+      "name": "Marina Bay Financial Centre"
+    },
+    { "lat": "1.301498794", "lng": "103.78833018", "name": "Biopolis" },
+    { "lat": "1.2999988", "lng": "103.7333304", "name": "Pulau Ujong" },
+    {
+      "lat": "1.2903821718",
+      "lng": "103.776363561",
+      "name": "National University Hospital"
+    },
+    {
+      "lat": "1.339498642",
+      "lng": "103.825330032",
+      "name": "MacRitchie Reservoir"
+    },
+    {
+      "lat": "1.287665516",
+      "lng": "103.851079929",
+      "name": "City Hall, Singapore"
+    },
+    { "lat": "1.284665528", "lng": "103.843163294", "name": "UOB Plaza" },
+    {
+      "lat": "1.32076205028",
+      "lng": "103.839783308",
+      "name": "Internal Security Department (Singapore)"
+    },
+    {
+      "lat": "1.29040050506",
+      "lng": "103.800290132",
+      "name": "Special Tactics and Rescue (Singapore)"
+    },
+    {
+      "lat": "1.287165518",
+      "lng": "103.850746597",
+      "name": "Old Supreme Court Building, Singapore"
+    },
+    { "lat": "1.30250045666", "lng": "103.825696697", "name": "ION Orchard" },
+    {
+      "lat": "1.322165378",
+      "lng": "103.793163494",
+      "name": "Singapore Institute of Management"
+    },
+    {
+      "lat": "1.2857405237",
+      "lng": "103.859216563",
+      "name": "Operation Jaywick"
+    },
+    { "lat": "1.2652", "lng": "103.8201", "name": "HarbourFront" },
+    { "lat": "1.300194", "lng": "103.85615", "name": "Bugis MRT Station" },
+    {
+      "lat": "1.33375199832",
+      "lng": "103.955354512",
+      "name": "Singapore Expo"
+    },
+    {
+      "lat": "1.28776718226",
+      "lng": "103.842214964",
+      "name": "Ministry of Communications and Information"
+    },
+    {
+      "lat": "1.30051879792",
+      "lng": "103.851801593",
+      "name": "Kwan Im Thong Hood Cho Temple"
+    },
+    {
+      "lat": "1.333415",
+      "lng": "103.742119",
+      "name": "Jurong East MRT Station"
+    },
+    {
+      "lat": "1.28726385094",
+      "lng": "103.850223266",
+      "name": "High Court of Singapore"
+    },
+    { "lat": "1.2854405249", "lng": "103.843036628", "name": "Boat Quay" },
+    { "lat": "1.282347", "lng": "103.859317", "name": "Bayfront MRT Station" },
+    {
+      "lat": "1.25403065054",
+      "lng": "103.826491694",
+      "name": "Police Coast Guard"
+    },
+    {
+      "lat": "1.2692405897",
+      "lng": "103.857941568",
+      "name": "Marina South Pier MRT Station"
+    },
+    {
+      "lat": "1.30444544888",
+      "lng": "103.870689851",
+      "name": "Kallang Airport"
+    },
+    {
+      "lat": "1.292665496",
+      "lng": "103.876329828",
+      "name": "Dunman High School"
+    },
+    {
+      "lat": "1.2851988592",
+      "lng": "103.80073013",
+      "name": "Alexandra Hospital"
+    },
+    {
+      "lat": "1.2750322332",
+      "lng": "103.850196599",
+      "name": "Telok Ayer Market"
+    },
+    {
+      "lat": "1.2973366188",
+      "lng": "103.850904132",
+      "name": "Singapore Art Museum"
+    },
+    {
+      "lat": "1.3042987828",
+      "lng": "103.857801569",
+      "name": "Lavender MRT Station"
+    },
+    {
+      "lat": "1.3039321176",
+      "lng": "103.919029657",
+      "name": "Victoria Junior College"
+    },
+    {
+      "lat": "1.280225",
+      "lng": "103.839486",
+      "name": "Outram Park MRT Station"
+    },
+    { "lat": "1.2846", "lng": "103.851", "name": "One Raffles Place" },
+    { "lat": "1.310016", "lng": "103.860347", "name": "Jalan Besar Stadium" },
+    { "lat": "1.25333232", "lng": "103.819330056", "name": "Sentosa Express" },
+    {
+      "lat": "1.258665632",
+      "lng": "103.818663392",
+      "name": "HarbourFront Centre"
+    },
+    { "lat": "1.28485", "lng": "103.844006", "name": "Chinatown MRT Station" },
+    {
+      "lat": "1.322519",
+      "lng": "103.815406",
+      "name": "Botanic Gardens MRT Station"
+    },
+    {
+      "lat": "1.32308037434",
+      "lng": "103.941136235",
+      "name": "Tanah Merah MRT Station"
+    },
+    { "lat": "1.293131", "lng": "103.861064", "name": "Promenade MRT Station" },
+    {
+      "lat": "1.2723239107",
+      "lng": "103.852801589",
+      "name": "Marina Bay MRT Station"
+    },
+    { "lat": "1.32399537068", "lng": "103.737298717", "name": "Jurong East" },
+    {
+      "lat": "1.265297",
+      "lng": "103.82225",
+      "name": "HarbourFront MRT Station"
+    },
+    {
+      "lat": "1.30152546056",
+      "lng": "103.859574895",
+      "name": "Nicoll Highway collapse"
+    },
+    {
+      "lat": "1.290332172",
+      "lng": "103.853663252",
+      "name": "South Beach, Singapore"
+    },
+    { "lat": "1.289498842", "lng": "103.851829926", "name": "Raffles City" },
+    {
+      "lat": "1.2898655072",
+      "lng": "103.842813295",
+      "name": "Peranakan Museum"
+    },
+    {
+      "lat": "1.301332128",
+      "lng": "103.856163242",
+      "name": "Malay Heritage Centre"
+    },
+    {
+      "lat": "1.306332108",
+      "lng": "103.841496634",
+      "name": "KK Women's and Children's Hospital"
+    },
+    {
+      "lat": "1.31928538952",
+      "lng": "104.022099912",
+      "name": "Changi Naval Base"
+    },
+    { "lat": "1.290415505", "lng": "103.851079929", "name": "CHIJMES" },
+    { "lat": "1.28776", "lng": "103.84684", "name": "WOHA" },
+    {
+      "lat": "1.288582179",
+      "lng": "103.851213262",
+      "name": "St Andrew's Cathedral, Singapore"
+    },
+    {
+      "lat": "1.29040050506",
+      "lng": "103.800290132",
+      "name": "Special Operations Command (Singapore)"
+    },
+    {
+      "lat": "1.3067321064",
+      "lng": "103.822530043",
+      "name": "Shangri-La Hotel Singapore"
+    },
+    { "lat": "1.300082133", "lng": "103.854576582", "name": "Parkview Square" },
+    {
+      "lat": "1.33461366154",
+      "lng": "103.957056172",
+      "name": "Expo MRT Station"
+    },
+    {
+      "lat": "1.296931",
+      "lng": "103.850631",
+      "name": "Bras Basah MRT Station"
+    },
+    { "lat": "1.338665312", "lng": "103.92166298", "name": "Bedok Reservoir" },
+    {
+      "lat": "1.317767",
+      "lng": "103.892381",
+      "name": "Paya Lebar MRT Station"
+    },
+    {
+      "lat": "1.30258712298",
+      "lng": "103.825826697",
+      "name": "Orchard MRT Station"
+    },
+    {
+      "lat": "1.3016321268",
+      "lng": "103.858979897",
+      "name": "Golden Mile Complex"
+    },
+    {
+      "lat": "1.27532723202",
+      "lng": "103.85167326",
+      "name": "The Sail @ Marina Bay"
+    },
+    {
+      "lat": "1.32654",
+      "lng": "103.803491",
+      "name": "The Chinese High School (Singapore)"
+    },
+    { "lat": "1.2666656", "lng": "103.83333", "name": "Keppel Harbour" },
+    {
+      "lat": "1.2901988392",
+      "lng": "103.855279912",
+      "name": "Fountain of Wealth"
+    },
+    {
+      "lat": "1.275918",
+      "lng": "103.845971",
+      "name": "Accounting and Corporate Regulatory Authority"
+    },
+    { "lat": "1.30166546", "lng": "103.833996664", "name": "Ngee Ann City" },
+    {
+      "lat": "1.29176383294",
+      "lng": "103.84244663",
+      "name": "Kempeitai East District Branch"
+    },
+    { "lat": "1.2999988", "lng": "103.8666632", "name": "Kallang River" },
+    {
+      "lat": "1.306817",
+      "lng": "103.790428",
+      "name": "Buona Vista MRT Station"
+    },
+    {
+      "lat": "1.333831998",
+      "lng": "103.735663724",
+      "name": "Science Centre Singapore"
+    },
+    {
+      "lat": "1.275665564",
+      "lng": "103.851329928",
+      "name": "One Raffles Quay"
+    },
+    { "lat": "1.255332312", "lng": "103.804830114", "name": "Fort Siloso" },
+    { "lat": "1.279458", "lng": "103.852931", "name": "Downtown MRT Station" },
+    {
+      "lat": "1.28726385094",
+      "lng": "103.850223266",
+      "name": "Court of Appeal of Singapore"
+    },
+    {
+      "lat": "1.337665316",
+      "lng": "103.942829562",
+      "name": "Changi General Hospital"
+    },
+    {
+      "lat": "1.286998852",
+      "lng": "103.855329912",
+      "name": "2009 Singapore Grand Prix"
+    },
+    {
+      "lat": "1.27252890988",
+      "lng": "103.840756637",
+      "name": "Tanjong Pagar MRT Station"
+    },
+    {
+      "lat": "1.25995229352",
+      "lng": "103.807120105",
+      "name": "Reflections at Keppel Bay"
+    },
+    { "lat": "1.301832126", "lng": "103.904663048", "name": "Marine Parade" },
+    {
+      "lat": "1.306725",
+      "lng": "103.849175",
+      "name": "Little India MRT Station"
+    },
+    {
+      "lat": "1.32487536716",
+      "lng": "103.835303325",
+      "name": "Aetos Security Management"
+    },
+    {
+      "lat": "1.28438886244",
+      "lng": "103.851379928",
+      "name": "Ocean Financial Centre"
+    },
+    {
+      "lat": "1.266998932",
+      "lng": "103.800996796",
+      "name": "Labrador Nature Reserve"
+    },
+    {
+      "lat": "1.312314",
+      "lng": "103.854028",
+      "name": "Farrer Park MRT Station"
+    },
+    {
+      "lat": "1.33458699498",
+      "lng": "103.869864854",
+      "name": "Bidadari Cemetery"
+    },
+    {
+      "lat": "1.282125",
+      "lng": "103.848472",
+      "name": "Telok Ayer MRT Station"
+    },
+    {
+      "lat": "1.29040050506",
+      "lng": "103.800290132",
+      "name": "Police Tactical Unit (Singapore)"
+    },
+    {
+      "lat": "1.28598718938",
+      "lng": "103.859484895",
+      "name": "Operation Rimau"
+    },
+    {
+      "lat": "1.307165438",
+      "lng": "103.836996652",
+      "name": "Newton Food Centre"
+    },
+    { "lat": "1.287998848", "lng": "103.854496582", "name": "Marina Square" },
+    { "lat": "1.28528719218", "lng": "103.841166635", "name": "Hong Lim Park" },
+    {
+      "lat": "1.304332116",
+      "lng": "103.818496726",
+      "name": "Gleneagles Hospital and Medical Centre"
+    },
+    { "lat": "1.285248859", "lng": "103.851363261", "name": "Cavenagh Bridge" },
+    {
+      "lat": "1.290915503",
+      "lng": "103.850746597",
+      "name": "Cathedral of the Good Shepherd"
+    },
+    { "lat": "1.312751", "lng": "103.862", "name": "938LIVE" },
+    { "lat": "1.302856", "lng": "103.875306", "name": "Stadium MRT Station" },
+    {
+      "lat": "1.2922654976",
+      "lng": "103.851913259",
+      "name": "Saint Joseph's Church, Singapore"
+    },
+    {
+      "lat": "1.2837655316",
+      "lng": "103.838629979",
+      "name": "People's Park Complex"
+    },
+    {
+      "lat": "1.3014487942",
+      "lng": "103.831680007",
+      "name": "Overseas Family School"
+    },
+    { "lat": "1.299331", "lng": "103.787067", "name": "One-north MRT Station" },
+    {
+      "lat": "1.32330870676",
+      "lng": "103.673755638",
+      "name": "Joo Koon MRT Station"
+    },
+    {
+      "lat": "1.288708",
+      "lng": "103.846606",
+      "name": "Clarke Quay MRT Station"
+    },
+    {
+      "lat": "1.2935571",
+      "lng": "103.851547",
+      "name": "Capitol Building, Singapore"
+    },
+    { "lat": "1.3085467", "lng": "103.8520646", "name": "Tekka Centre" },
+    { "lat": "1.335833", "lng": "103.887942", "name": "Tai Seng MRT Station" },
+    {
+      "lat": "1.323498706",
+      "lng": "103.841496634",
+      "name": "Sun Yat Sen Nanyang Memorial Hall"
+    },
+    {
+      "lat": "1.2991078",
+      "lng": "103.8484597",
+      "name": "School of the Arts, Singapore"
+    },
+    {
+      "lat": "1.3254320316",
+      "lng": "103.859079897",
+      "name": "Saint Andrew's Junior College"
+    }
+  ]
+}

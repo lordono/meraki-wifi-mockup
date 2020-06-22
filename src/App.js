@@ -1,23 +1,50 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useRef, useState, useEffect } from "react";
+import "./App.scss";
+import UIMap from "./components/Map";
+import { mockData } from "./mockdata";
+import UITimeVis from "./components/TimeVis";
+
+const options = ["map", "calendar", "grid"];
+
+const Option = (props) => {
+  const { selected, icon, onClick } = props;
+  return (
+    <li className={selected ? "selected" : ""} onClick={onClick}>
+      <ion-icon name={icon}></ion-icon>
+    </li>
+  );
+};
 
 function App() {
+  const mapRef = useRef(null);
+  const [zoom, setZoom] = useState(11);
+  const [selected, setSelected] = useState(0);
+  useEffect(() => {
+    if (mapRef.current) {
+      const width = mapRef.current.clientWidth;
+      if (width > 1920) setZoom(13);
+      else if (width >= 1024 && width <= 1920) setZoom(12);
+      else if (width >= 768 && width < 1024) setZoom(11);
+    }
+  }, [mapRef]);
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header className="App-header" ref={mapRef}>
+        <nav className="nav-bar">
+          <div className="title">Meraki Wifi for Starhub</div>
+          <ul>
+            {options.map((opt, num) => (
+              <Option
+                key={num}
+                selected={num === selected}
+                icon={opt}
+                onClick={() => setSelected(num)}
+              />
+            ))}
+          </ul>
+        </nav>
+        {selected === 0 && <UIMap zoom={zoom} data={mockData} />}
+        {selected === 1 && <UITimeVis data={mockData} />}
       </header>
     </div>
   );
