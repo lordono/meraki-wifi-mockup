@@ -60,8 +60,9 @@ const UIMap = (props) => {
     <div className="app-map-content">
       <Map center={position} zoom={zoom} className="app-map-chart">
         <TileLayer
-          attribution='&amp;copy <a href="https://www.stadiamaps.com/">© Stadia Maps</a> <a href="https://openmaptiles.org/">© OpenMapTiles</a> <a href="http://osm.org/copyright">© OpenStreetMap</a> contributors.'
-          url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png"
+          // attribution='&amp;copy <a href="https://www.stadiamaps.com/">© Stadia Maps</a> <a href="https://openmaptiles.org/">© OpenMapTiles</a> <a href="http://osm.org/copyright">© OpenStreetMap</a> contributors.'
+          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         />
         {data.map((pt) => (
           <Marker
