@@ -20,7 +20,7 @@ const Option = (props) => {
 function App() {
   const mapRef = useRef(null);
   const [zoom, setZoom] = useState(11);
-  const [selected, setSelected] = useState(3);
+  const [selected, setSelected] = useState(0);
   useEffect(() => {
     if (mapRef.current) {
       const width = mapRef.current.clientWidth;
