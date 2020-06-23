@@ -137,6 +137,8 @@
   width: calc(100% - 20px);
   height: calc(100% - 130px);
   overflow-y: auto;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 
   /* width */
   &::-webkit-scrollbar {
@@ -159,19 +161,17 @@
   }
 
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   flex-direction: column;
   align-items: center;
   padding: 10px;
 
   .detail-block {
-    border: 0.5px solid lighten(#282c34, 15%);
-    border-radius: 5px;
-    padding: 10px;
-    margin: 5px;
-    font-size: calc(0.5vmin + 12px);
-    width: calc(15vmin + 240px);
-    height: calc(4.5vmin + 150px);
+    padding: 15px 20px;
+    border-radius: 10px;
+    font-size: calc(1vmin + 5px);
+    width: calc(32vmin + 680px);
+    height: calc(4.5vmin + 120px);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -183,15 +183,35 @@
     .detail-block-title {
       font-weight: 600;
       margin-bottom: 10px;
+      width: 100%;
+      text-align: left;
     }
     .detail-box-container {
       display: flex;
       justify-content: center;
       align-items: center;
 
+      .detail-border {
+        border-radius: 5px;
+        border: 0.5px solid lighten(#282c34, 15%);
+        padding: 5px;
+        margin: 0 5px;
+        .detail-border-title {
+          font-weight: 200;
+          font-size: 0.75rem;
+          text-align: left;
+          padding-left: 5px;
+        }
+        .detail-border-container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+      }
+
       .detail-box {
-        width: calc(5vmin + 70px);
-        height: calc(1.5vmin + 120px);
+        width: calc(4vmin + 70px);
+        height: calc(4vmin + 60px);
         margin: 5px;
         background-color: darken(#95de64, 30%);
         border-radius: 5px;
@@ -208,12 +228,12 @@
           background-color: darken(#ffc069, 30%);
         }
         .detail-box-desc {
-          font-size: 2.25rem;
+          font-size: 1.5rem;
+          margin-top: calc(2vmin + 10px);
+          margin-bottom: calc(1vmin + 2.5px);
         }
         .detail-box-title {
-          font-size: 0.75rem;
-          margin-top: calc(0.5vmin + 10px);
-          margin-bottom: calc(1vmin + 10px);
+          font-size: 0.7rem;
         }
       }
     }
