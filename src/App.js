@@ -4,8 +4,9 @@ import UIMap from "./components/Map";
 import { mockData } from "./mockdata";
 import UITimeVis from "./components/TimeVis";
 import UIDetailVis from "./components/DetailVis";
+import UITable from "./components/Table";
 
-const options = ["map", "calendar", "grid"];
+const options = ["map", "calendar", "grid", "reorder-four-sharp"];
 
 const Option = (props) => {
   const { selected, icon, onClick } = props;
@@ -19,7 +20,7 @@ const Option = (props) => {
 function App() {
   const mapRef = useRef(null);
   const [zoom, setZoom] = useState(11);
-  const [selected, setSelected] = useState(2);
+  const [selected, setSelected] = useState(3);
   useEffect(() => {
     if (mapRef.current) {
       const width = mapRef.current.clientWidth;
@@ -47,6 +48,7 @@ function App() {
         {selected === 0 && <UIMap zoom={zoom} data={mockData} />}
         {selected === 1 && <UITimeVis data={mockData} />}
         {selected === 2 && <UIDetailVis data={mockData} />}
+        {selected === 3 && <UITable data={mockData} time="week" />}
       </header>
     </div>
   );

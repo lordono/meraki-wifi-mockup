@@ -1,7 +1,7 @@
 import React from "react";
 
 const UIDetailBlock = (props) => {
-  const { data, time } = props;
+  const { data, time, onClick } = props;
 
   const boxCss = (type) => {
     const value = data[time][type];
@@ -23,12 +23,7 @@ const UIDetailBlock = (props) => {
     } else {
       const dt = data[time];
       const statusTotal =
-        dt.success +
-        dt.association +
-        dt.dns +
-        dt.authentication +
-        dt.dns +
-        dt.dhcp;
+        dt.success + dt.association + dt.dns + dt.authentication + dt.dhcp;
       const percent = dt[type] / statusTotal;
       if (type === "success") {
         if (percent > 0.975) return greenCss;
@@ -42,7 +37,7 @@ const UIDetailBlock = (props) => {
     }
   };
   return (
-    <div className="detail-block">
+    <div className="detail-block" onClick={() => onClick(data.district)}>
       <div className="detail-block-title">{data.district}</div>
       <div className="detail-box-container">
         <div className="detail-border">

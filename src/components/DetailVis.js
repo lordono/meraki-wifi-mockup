@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import UIDetailBlock from "./DetailBlock";
-import UILegend from "./Legend";
+import UITable from "./Table";
 
 const accTimeData = (fromDict, toDict) => {
   const num = toDict.numPoints;
@@ -29,6 +29,8 @@ const accTimeData = (fromDict, toDict) => {
 
 const UIDetailVis = (props) => {
   const { data } = props;
+  const [modalData, setModalData] = useState([]);
+  const [showModal, setShowModal] = useState(false);
   const [time, setTime] = useState("day");
   const [aggData, setAggData] = useState({});
   useEffect(() => {
@@ -50,10 +52,20 @@ const UIDetailVis = (props) => {
       setAggData(testData);
     }
   }, [data]);
+
+  const onBlockClick = (district) => {
+    setModalData(data.filter((i) => i.district === district));
+    setShowModal(true);
+  };
   return (
     <div className="app-detailvis-content">
       {Object.values(aggData).map((i) => (
-        <UIDetailBlock key={i.district} time={time} data={i} />
+        <UIDetailBlock
+          key={i.district}
+          time={time}
+          data={i}
+          onClick={onBlockClick}
+        />
       ))}
       {/* overlay */}
       <div className="overlay">
@@ -73,6 +85,19 @@ const UIDetailVis = (props) => {
               </select>
             </div>
           </div>
+        </div>
+      </div>
+      <div className={showModal ? "modal-bg" : "modal-bg hide"}>
+        <div className="modal">
+          <div className="modal-header">
+            <div className="modal-title">
+              Details in {modalData.length > 0 ? modalData[0].district : ""}
+            </div>
+            <div className="modal-close" onClick={() => setShowModal(false)}>
+              <ion-icon name="close-circle-sharp"></ion-icon>
+            </div>
+          </div>
+          <UITable data={modalData} time={time} />
         </div>
       </div>
     </div>

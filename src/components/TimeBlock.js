@@ -1,7 +1,7 @@
 import React from "react";
 
 const UITimeBlock = (props) => {
-  const { data, type } = props;
+  const { data, type, onClick } = props;
   const getSuffix = (type) => {
     if (type === "uptime") return "%";
     else if (type === "utilization") return "mbps";
@@ -34,15 +34,24 @@ const UITimeBlock = (props) => {
     <div className="time-block">
       <div className="time-block-title">{data.district}</div>
       <div className="time-box-container">
-        <div className={boxCss("month")}>
+        <div
+          className={boxCss("month")}
+          onClick={() => onClick(data.district, "month")}
+        >
           <div className="time-box-title">Monthly({suffix})</div>
           <div className="time-box-desc">{data.month[type]}</div>
         </div>
-        <div className={boxCss("week")}>
+        <div
+          className={boxCss("week")}
+          onClick={() => onClick(data.district, "week")}
+        >
           <div className="time-box-title">Weekly({suffix})</div>
           <div className="time-box-desc">{data.week[type]}</div>
         </div>
-        <div className={boxCss("day")}>
+        <div
+          className={boxCss("day")}
+          onClick={() => onClick(data.district, "day")}
+        >
           <div className="time-box-title">Daily({suffix})</div>
           <div className="time-box-desc">{data.day[type]}</div>
         </div>

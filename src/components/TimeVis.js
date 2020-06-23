@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import UITimeBlock from "./TimeBlock";
 import UILegend from "./Legend";
+import UITable from "./Table";
 
 const accTimeData = (fromDict, toDict) => {
   const num = toDict.numPoints;
@@ -30,6 +31,9 @@ const accTimeData = (fromDict, toDict) => {
 const UITimeVis = (props) => {
   const { data } = props;
   const [type, setType] = useState("uptime");
+  const [time, setTime] = useState("day");
+  const [modalData, setModalData] = useState([]);
+  const [showModal, setShowModal] = useState(false);
   const [aggData, setAggData] = useState({});
   useEffect(() => {
     if (data.length > 0) {
@@ -50,10 +54,21 @@ const UITimeVis = (props) => {
       setAggData(testData);
     }
   }, [data]);
+  const onBlockClick = (district, time) => {
+    setTime(time);
+    setModalData(data.filter((i) => i.district === district));
+    setShowModal(true);
+  };
+
   return (
     <div className="app-timevis-content">
       {Object.values(aggData).map((i) => (
-        <UITimeBlock key={i.district} type={type} data={i} />
+        <UITimeBlock
+          key={i.district}
+          type={type}
+          data={i}
+          onClick={onBlockClick}
+        />
       ))}
       {/* overlay */}
       <div className="overlay">
@@ -75,6 +90,19 @@ const UITimeVis = (props) => {
           </div>
         </div>
         <UILegend type={type} />
+      </div>
+      <div className={showModal ? "modal-bg" : "modal-bg hide"}>
+        <div className="modal">
+          <div className="modal-header">
+            <div className="modal-title">
+              Details in {modalData.length > 0 ? modalData[0].district : ""}
+            </div>
+            <div className="modal-close" onClick={() => setShowModal(false)}>
+              <ion-icon name="close-circle-sharp"></ion-icon>
+            </div>
+          </div>
+          <UITable data={modalData} time={time} />
+        </div>
       </div>
     </div>
   );
