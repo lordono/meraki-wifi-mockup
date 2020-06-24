@@ -33,7 +33,7 @@ function App() {
     <div className="App">
       <header className="App-header" ref={mapRef}>
         <nav className="nav-bar">
-          <div className="title">Meraki Wifi for Starhub</div>
+          <div className="title">Meraki Wifi for StarHub</div>
           <ul>
             {options.map((opt, num) => (
               <Option
